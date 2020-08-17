@@ -1,0 +1,11 @@
+Normalised City Pair,Departure Code,Arrival Code,Departure_lat,Departure_lon,Arrival_lat,Arrival_lon
+"London, United Kingdom - New York, United States Of America",LHR,JFK,51.5,-0.45,40.64,-73.79
+"London, United Kingdom - New York, United States Of America",JFK,LHR,40.6,-73.79,51.47,-0.45
+"London, United Kingdom - New York, United States Of America",JFK,LHR,40.6,-73.79,51.47,-0.45
+"London, United Kingdom - New York, United States Of America",JFK,LHR,40.6,-73.79,51.47,-0.45
+"London, United Kingdom - New York, United States Of America",LHR,JFK,51.5,-0.45,40.64,-73.79
+"London, United Kingdom - New York, United States Of America",JFK,LHR,40.64,-73.79,51.5,-0.45
+"London, United Kingdom - New York, United States Of America",JFK,LHR,40.6,-73.79,51.47,-0.45
+"London, United Kingdom - New York, United States Of America",JFK,LHR,40.6,-73.79,51.47,-0.45
+"London, United Kingdom - New York, United States Of America",JFK,LHR,40.6,-73.79,51.47,-0.45
+"London, United Kingdom - New York, United States Of America",JFK,LHR,40.6,-73.79,51.47,-0.45
